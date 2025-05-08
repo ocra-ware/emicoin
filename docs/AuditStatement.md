@@ -34,4 +34,4 @@ Until a full audit is complete, Emicoin's source and deployment remain 100% tran
 ---
 
 **The Emicoin Team**  
-emicoin@ocraware.com]
+emicoin@ocraware.com
