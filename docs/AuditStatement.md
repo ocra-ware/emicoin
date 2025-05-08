@@ -29,9 +29,9 @@ Until a full audit is complete, Emicoin's source and deployment remain 100% tran
 ## 🔗 References
 - OpenZeppelin ERC20 Docs: https://docs.openzeppelin.com/contracts/4.x/api/token/erc20
 - Emicoin Whitepaper: https://www.ocraware.com/emicoin-white-paper
-- Emicoin GitHub: https://github.com/ocraware/emicoin
+- Emicoin GitHub: https://github.com/ocra-ware/emicoin
 
 ---
 
 **The Emicoin Team**  
-emicoin@ocraware.com
+[emicoin@ocraware.com](mailto:emicoin@ocraware.com)
